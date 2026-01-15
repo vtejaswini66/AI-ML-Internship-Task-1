@@ -20,7 +20,7 @@ The goal is to understand dataset structure, data types, data quality, and ML re
 
 ## Datasets Used
 - Titanic Dataset: Kaggle – Titanic Machine Learning from Disaster
-- Students Performance Dataset: Kaggle – Students Performance in Exams
+- Students_Performance Dataset: Kaggle – Students Performance in Exams
 
 
 ## Outcome
