@@ -18,7 +18,7 @@ The goal is to understand dataset structure, data types, data quality, and ML re
 - `dataset_analysis_report.md` – Humanized 1-page analysis report
 - `README.md` – Project overview
 
- ## Datasets Used
+## Datasets Used
 - Titanic Dataset: Kaggle – Titanic Machine Learning from Disaster
 - Students Performance Dataset: Kaggle – Students Performance in Exams
 
